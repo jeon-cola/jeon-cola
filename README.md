@@ -17,6 +17,6 @@
 ### Design & Collaboration
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab"/><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github"/><img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/><img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="jira" /><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/>
 
-### Algorithm
-<img src="docs/tier.png" alt="beakjoon_tier" />
+## Algorithm
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hghg99124)](https://solved.ac/hghg99124/)
 <img src="docs/chart.png" alt="beakjoon_chart" />
