@@ -1,6 +1,6 @@
 # hongseok_jeon
 **비즈니스와 기술 사이에서 사용자 경험의 답을 찾는 프론트엔드 개발자**  
-🔗 [블로그 보러가기](https://your-blog-link.com)
+🔗 [블로그 보러가기](https://velog.io/@hongsj/posts)
 
 - 💡 사용자 니즈를 코드로 풀어가는 프론트 엔드  
 - 🎯 끊임없는 학습과 성장 추구
