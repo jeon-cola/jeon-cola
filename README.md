@@ -22,4 +22,3 @@
 
 ## Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hghg99124)](https://solved.ac/hghg99124/)
-<img src="docs/chart.png" alt="beakjoon_chart" />
