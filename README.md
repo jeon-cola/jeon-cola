@@ -1,6 +1,4 @@
 # hongseok_jeon
-🔗 [블로그 보러가기](https://velog.io/@hongsj/posts)
-
 
 ## 🛠 기술 스택 
 
@@ -18,3 +16,6 @@
 
 ## Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hghg99124)](https://solved.ac/hghg99124/)
+
+## Blog
+🔗 [기술 블로그](https://velog.io/@hongsj/posts)
