@@ -1,4 +1,3 @@
-# hongseok_jeon
 
 ## 🛠 기술 스택 
 
